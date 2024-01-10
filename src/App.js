@@ -24,7 +24,6 @@ function App() {
       <Feature></Feature>
       <Feature></Feature>
       <Feature></Feature>
-      
     </div>
   );
 }
